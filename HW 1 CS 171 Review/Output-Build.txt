@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: HW 1 CS 171 Review, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>c:\users\anna\documents\cs 172\hw 1 cs 171 review\hw 1 cs 171 review\source.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>  HW 1 CS 171 Review.vcxproj -> C:\Users\Anna\Documents\CS 172\HW 1 CS 171 Review\Debug\HW 1 CS 171 Review.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
